@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Game Design
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: ajkett0@gmail.com
 
 <!---
 SlamJones/SlamJones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
